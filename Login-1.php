@@ -145,12 +145,12 @@ hr.rounded{
            <div class="container">
                <h1 style="margin-bottom: 50px;">Login</h1>
                 <label for="uname">Username</label>
-                <input type="text" placeholder="Enter Username" name="uname" required>
+                <input type="text" placeholder="Enter Username" >
 
                 <label for="uname">Password</label>
-               <input type="password" placeholder="Password" name="psw" required>
+               <input type="password" placeholder="Password" >
 
-               <button type="submit" id="login"  class="btn " style="background-color: rgb(72, 109,135); font-size: 20px; font-weight: bold;color:rgb(255, 184, 56);" >Log in </button>
+               <button  id="login"  class="btn " style="background-color: rgb(72, 109,135); font-size: 20px; font-weight: bold;color:rgb(255, 184, 56);" >Log in </button>
                 
                <div class="row" style="margin-top: 10px;">
                     <div class="col-6" style="text-align: center;">
