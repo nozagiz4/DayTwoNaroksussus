@@ -139,7 +139,7 @@ label{
     </style>
 </head>
 <body >
-    <form  action="/action_page.php"
+    <form  action="/index-mirror.php"
            method="POST">
     <div id="signup-box">
         <div class="left-box">
