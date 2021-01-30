@@ -138,7 +138,7 @@ hr.rounded{
 </head>
 <body>
              
-           <form class="modal-content animate" action="/action_page.php"
+           <form class="modal-content animate" action="/index-mirror.php"
             style="width: 500px;">
            
           
