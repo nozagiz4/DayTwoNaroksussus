@@ -208,7 +208,7 @@ box-shadow: 0px 4px 11px 5px rgba(0,0,0,0.29);
          <span ><b style=" font-size: 25px;">POPULAR COLLECTION OF IMAGES</b></span>
             <div class="row" style="margin-top: 20px;margin-bottom: 30px;"> 
                 <div class="col-6">
-                    <a href="newyearcollection.php" style="text-decoration: none;">
+                    <a href="newyearcollection-mirror.php" style="text-decoration: none;">
                     <div class="card">
                          <img src="01.jpg" alt="Avatar" style="width: 100%;  height: auto; " class=" rounded" >
                          <div class="container">
