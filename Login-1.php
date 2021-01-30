@@ -139,7 +139,7 @@ hr.rounded{
 <body>
              
            <form class="modal-content animate" action="/action_page.php"
-           method="POST" style="width: 500px;">
+            style="width: 500px;">
            
           
            <div class="container">
